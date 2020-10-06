@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Quiz App</string>
+    <string name="Question_first">Which company developed android?</string>
+    <string name="Question_second">" Android is based on which kernel?"</string>
+    <string name="hint">Write Your Answer Here!</string>
+    <string name="Answer_first_A">Microsoft</string>
+    <string name="Answer_first_B">Apple</string>
+    <string name="Answer_first_C">Android Inc</string>
+    <string name="Answer_first_D">Intel</string>
+    <string name="Question_third">Android supports which features.</string>
+    <string name="Answer_third_A">Multitasking</string>
+    <string name="Answer_third_B">Bluetooth</string>
+    <string name="Answer_third_C">WIFI</string>
+    <string name="Answer_third_D">Video-Calling</string>
+    <string name="Question_fourth">Is Android hack proof?</string>
+    <string name="Answer_fourth_B">No</string>
+    <string name="Answer_fourth_A">Yes</string>
+    <string name="Question_fifth">" If you want to increase the whitespace between widgets, you will need to use the ____________ property"</string>
+    <string name="Answer_fifth_A">android:padding</string>
+    <string name="Answer_fifth_B">android:gravity</string>
+    <string name="Answer_fifth_C">android:layout_margin</string>
+    <string name="Answer_fifth_D">android:text</string>
+    <string name="submit">Submit</string>
 </resources>
